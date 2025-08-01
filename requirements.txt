@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+serpapi
+python-dotenv
+google-search-results
