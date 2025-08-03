@@ -14,7 +14,7 @@ Ask questions and get real-time, Google-powered answers with blazing speed and c
 
 ---
 
-## Env requirements:
+## .env file requirements:
 LANGCHAIN_API_KEY="your api key"
 LANGCHAIN_PROJECT= "Search Engine"
 HF_TOKEN="your api key"
