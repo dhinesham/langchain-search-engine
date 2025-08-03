@@ -1,4 +1,4 @@
-# 🔎 LangChain Chatbot with SerpAPI + Groq
+# 🔎 AI SEARCH ENGINE Chatbot with SerpAPI + Groq
 
 A fast and intelligent chatbot app built using **LangChain**, **Groq LLMs**, **SerpAPI**, and **Streamlit**.  
 Ask questions and get real-time, Google-powered answers with blazing speed and clean UI.
